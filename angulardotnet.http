@@ -1,0 +1,6 @@
+@angulardotnet_HostAddress = http://localhost:5168
+
+GET {{angulardotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
